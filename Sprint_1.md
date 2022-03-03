@@ -15,15 +15,13 @@ aos ativos, de quem o emplementa.
 
 ## Tema: Git e GitHub
 
-### 3. Explique de forma sucinta, o fluxo e envio de um arquivo novo para o
-repositório do projeto.
+### 3. Explique de forma sucinta, o fluxo e envio de um arquivo novo para o repositório do projeto.
 
 ### 4. Descreva sobre os ganhos de se utilizar a funcionalidade da branch do git.
 R: Ajuda a visualizar bem o fluxo e controle do codigo, assim como historico de alterações
 otimizando o tempo de novas implementações e correção de erros.
 
-### 5. Explique a diferença entre criar o repositório na nuvem e iniciar o repositório a
-partir de um código existente local.
+### 5. Explique a diferença entre criar o repositório na nuvem e iniciar o repositório a partir de um código existente local.
 
 ### 6. Qual a diferença entre Git e GitHub?
 R: Git - se utiliza para ter controle das versões de um solução. GitHub é a plataforma
@@ -31,22 +29,28 @@ que hospeda o versionamento do projeto, qual podemos compartilhar, visualizar e 
 
 ## Tema: Fundamentos de Agilidade: seus primeiros passos para a transformação ágil
 
-### 7. Quais as principais diferenças entre o modelo ágil e o waterfall (modelo em
-cascata)? 
+### 7. Quais as principais diferenças entre o modelo ágil e o waterfall (modelo em cascata)? 
+
 R: O modelo Waterfall é mais linear, possui caracteristica de imutabilidade, dificultando e desencorajando mudanças durante a produção
 a etapa seguinte sempre dependera da conclusão da anterior tornando mais lento, e dificultando a correção de erros.
 O modelo agil tem mais liberdade de priorização das ETAPAS de produção. Agilidade na entrega de cada etapa, para coletar possiveis melhorias e correções de erros.
 e encoraja mudanças no andamento do projeto.
 
 ### 8. Quais são as 3 perguntas que devem ser respondidas na Daily?
-R: oque se fez, oque fara, Quais problemas enfrentou.
+R: Oque se fez:
+oque fara: 
+Quais problemas enfrentou:
 
 ### 9. Qual o intuito das seguintes cerimônias?
 R:
 • Daily - para se visualiazar o fluxo time, se organizar e tirar possiveis duvidas rapidas e obter ajuda.
+
 • Planning - planejar oque sera feito e entregue em cada sprint.
+
 • Refinamento - deixar claro a regra de negocio, trazer mais clareza, dividir o esforço 
+
 • Review - onde se apresenta oque foi feito, para obter se obter um feedback de possiveis melhorias do projeto.
+
 • Retrospectiva - onde é posto em pratica a melhoria continua, vendo os pontos negativos,
 e buscando as melhores soluções usadas no andamento da sprint.
 
@@ -62,13 +66,13 @@ R: HTTP funcina como intermediador entre o cliente e o servidor com requisiçõe
 o HTTPS faz a mesma função mais com o diferencial de criptografar a informação solicitada.
 
 ### 12. Cite 4 métodos HTTP.
-R: get solicita um recurso especifico, onde se obtem retorno de dados.
+R: GET:  Solicita um recurso especifico, onde se obtem retorno de dados.
 
-put que substitui a carga das requisições 
+PUT: Que substitui a carga das requisições.
 
-delete que remove recursos especificos
+DELETE: Que remove recursos especificos.
 
-patch aplica modificações
+PATCH: Aplica modificações.
 
 
 
