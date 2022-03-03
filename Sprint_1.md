@@ -41,9 +41,9 @@ O modelo agil tem mais liberdade de priorização das ETAPAS de produção. Agil
 e encoraja mudanças no andamento do projeto.
 
 ### 8. Quais são as 3 perguntas que devem ser respondidas na Daily?
-R: Oque se fez:
-oque fara: 
-Quais problemas enfrentou:
+R: Oque se fez: Qual progresso e entregas de requisições foram entregues, ou ajustadas desde a ultima Daily.
+Oque vai Fazer: Onde se estima oque quais prioridades, e tarefas fara até a proxima Daily. 
+Quais problemas enfrentou: Trazer respostas as duvidas, soluções de problemas, e ajuda para e possiveis dificuldades.
 
 ### 9. Qual o intuito das seguintes cerimônias?
 R:
