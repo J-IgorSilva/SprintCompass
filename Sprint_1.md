@@ -16,12 +16,16 @@ aos ativos, de quem o emplementa.
 ## Tema: Git e GitHub
 
 ### 3. Explique de forma sucinta, o fluxo e envio de um arquivo novo para o repositório do projeto.
+R: No ambiente de trabalho o arquivo passa por 3 estagio MODIFIED, STAGED, COMMITTED. onde 
+MODIFIED foi identificado, STAGED esta sendo rastreago porem não persistido, e COMMITED onde o arquivo 
+foi comitado e esta sendo persisitido com alterações salvas no repositorio local e remoto.
 
 ### 4. Descreva sobre os ganhos de se utilizar a funcionalidade da branch do git.
 R: Ajuda a visualizar bem o fluxo e controle do codigo, assim como historico de alterações
 otimizando o tempo de novas implementações e correção de erros.
 
 ### 5. Explique a diferença entre criar o repositório na nuvem e iniciar o repositório a partir de um código existente local.
+R: Repositorio na nuvem é mais intuitivo e pratico, ja no local tem um controle mais dinamico das alterações.
 
 ### 6. Qual a diferença entre Git e GitHub?
 R: Git - Se utiliza para ter controle das versões de um solução. GitHub é a plataforma
