@@ -24,7 +24,7 @@ otimizando o tempo de novas implementações e correção de erros.
 ### 5. Explique a diferença entre criar o repositório na nuvem e iniciar o repositório a partir de um código existente local.
 
 ### 6. Qual a diferença entre Git e GitHub?
-R: Git - se utiliza para ter controle das versões de um solução. GitHub é a plataforma
+R: Git - Se utiliza para ter controle das versões de um solução. GitHub é a plataforma
 que hospeda o versionamento do projeto, qual podemos compartilhar, visualizar e contribuir para fluxo do mesmo.
 
 ## Tema: Fundamentos de Agilidade: seus primeiros passos para a transformação ágil
@@ -43,13 +43,13 @@ Quais problemas enfrentou:
 
 ### 9. Qual o intuito das seguintes cerimônias?
 R:
-• Daily - para se visualiazar o fluxo time, se organizar e tirar possiveis duvidas rapidas e obter ajuda.
+• Daily - Para se visualiazar o fluxo time, se organizar e tirar possiveis duvidas rapidas e obter ajuda.
 
-• Planning - planejar oque sera feito e entregue em cada sprint.
+• Planning - Planejar oque sera feito e entregue em cada sprint.
 
-• Refinamento - deixar claro a regra de negocio, trazer mais clareza, dividir o esforço 
+• Refinamento - Deixar claro a regra de negocio, trazer mais clareza, dividir o esforço 
 
-• Review - onde se apresenta oque foi feito, para obter se obter um feedback de possiveis melhorias do projeto.
+• Review - Onde se apresenta oque foi feito, para obter se obter um feedback de possiveis melhorias do projeto.
 
 • Retrospectiva - onde é posto em pratica a melhoria continua, vendo os pontos negativos,
 e buscando as melhores soluções usadas no andamento da sprint.
