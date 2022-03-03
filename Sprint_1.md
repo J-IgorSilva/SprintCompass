@@ -42,6 +42,7 @@ e encoraja mudanças no andamento do projeto.
 R: oque se fez, oque fara, Quais problemas enfrentou.
 
 ### 9. Qual o intuito das seguintes cerimônias?
+R:
 • Daily - para se visualiazar o fluxo time, se organizar e tirar possiveis duvidas rapidas e obter ajuda.
 • Planning - planejar oque sera feito e entregue em cada sprint.
 • Refinamento - deixar claro a regra de negocio, trazer mais clareza, dividir o esforço 
@@ -49,3 +50,8 @@ R: oque se fez, oque fara, Quais problemas enfrentou.
 • Retrospectiva - onde é posto em pratica a melhoria continua, vendo os pontos negativos,
 e buscando as melhores soluções usadas no andamento da sprint.
 
+### 10. O que é a estimativa na metodologia ágil?
+R: coleta de informções para o planejamento e duração de etapas, para fins de obter de forma mais clara,
+quais são as prioridades, e os recursos usados para atingir o objetivo desejado
+
+## Tema: Fundamentos HTTP
