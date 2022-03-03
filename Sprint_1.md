@@ -55,3 +55,21 @@ R: coleta de informções para o planejamento e duração de etapas, para fins d
 quais são as prioridades, e os recursos usados para atingir o objetivo desejado
 
 ## Tema: Fundamentos HTTP
+
+### 11. O que é o protocolo HTTP? Qual a diferença entre HTTP e HTTPS?
+R: HTTP é dos protocolo de rede que torna possivel, a tranferencia de informações de um serviço web.
+R: HTTP funcina como intermediador entre o cliente e o servidor com requisições de acesso e recebiento de informações
+o HTTPS faz a mesma função mais com o diferencial de criptografar a informação solicitada.
+
+### 12. Cite 4 métodos HTTP.
+R: get solicita um recurso especifico, onde se obtem retorno de dados.
+
+put que substitui a carga das requisições 
+
+delete que remove recursos especificos
+
+patch aplica modificações
+
+
+
+
