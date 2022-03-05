@@ -3,15 +3,14 @@
 ## Tema: Segurança de redes: Conheça as vulnerabilidades de servidores e clientes
 
 ### 1. O que é um ataque DDoS e como posso me proteger?
-**R:** Distributed Denial of Service(DDos), é um ataque que tem como caracteristica principal o envio de requisições
+**R:** Distributed Denial of Service(DDos), é um ataque que tem como característica principal o envio de requisições
 para um determinado alvo, congestionando o trafego de informações, causando lentidão, indisponibilidade,
-e esgotamento total dos recursos. ex: memoria, banda de rede, poder de processamento.
- Largura de banda, um gerenciador e filtro de requisições, testes periodicos no servidor, junto com um bom FIREWALL
+e esgotamento total dos recursos. ex: memoria, banda de rede, poder de processamento. Largura de banda, um gerenciador e filtro de requisições, testes periódicos no servidor, junto com um bom FIREWALL
 dificultaram bastante o sucesso desse tipo de ataque.
 
 ### 2. Por que o firewall é uma ferramenta muito importante de proteção?
-**R:** Por ser uma ferramenta completa e adptativa as regras de negocio, prevenindo ou eliminando potenciais riscos
-aos ativos, de quem o emplementa.
+**R:** Por ser uma ferramenta completa e adaptativa as regras de negócio, prevenindo ou eliminando potenciais riscos
+aos ativos, de quem o implementa.
 
 ## Tema: Git e GitHub
 
