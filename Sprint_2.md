@@ -20,6 +20,9 @@
 ### 1020 Idade em Dias
 • https://github.com/J-IgorSilva/Sprint_2/blob/main/1020.cs
 
+### 1021 Notas e Moedas
+• https://github.com/J-IgorSilva/Sprint_2/blob/main/1021.cs
+
 ### 1234 Sentença Dançante
 • https://github.com/J-IgorSilva/Sprint_2/blob/main/1234.cs
 
