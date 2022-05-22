@@ -4,4 +4,4 @@
 
 ### Desenvolver um pedido e cardápio digital de uma lancheria.
 
-° https://github.com/J-IgorSilva/Portifolio/tree/main/Cardapio
+• https://github.com/J-IgorSilva/Portifolio/tree/main/Cardapio
