@@ -5,3 +5,15 @@
 ### Desenvolver um pedido e cardápio digital de uma lancheria.
 
 • https://github.com/J-IgorSilva/Portifolio/tree/main/Cardapio
+
+## Atividade 2 Multithread
+
+### Preencher uma lista com objetos, que deverá ser gerado um arquivo .json com todos os objetos no output.
+
+• https://github.com/J-IgorSilva/Sprint_2/tree/main/Sprint-3/Atividade-Multithreading
+
+## Atividade 3 Sistema De Agendamento
+
+### Criar um teste no padrão stub, utilizando o framework moq, lançando uma exceção na inclusão de agendamentos.
+
+• https://github.com/J-IgorSilva/Sprint_2/tree/main/Sprint-3/SistemaDeAgendamento
